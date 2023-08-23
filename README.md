@@ -4,7 +4,7 @@ Me gusta retarme para poder dar lo mejor de mí. ⚡
 Me gusta aprender nuevas cosas  y siempre estoy en constante aprendizaje - 🌱
 Me gusta ser competitivo , investigar y ponerme a prueba con nuevos retos.🔭
 
-Habilidades: PHP / LARAVEL/PYTHON/FLASK/ REACT / JS / HTML / CSS /MONGODB / MYSQL/SQL SERVER
+Habilidades: PHP / LARAVEL/ JAVA / SPRINGBOOT 
 
 - 🔭 Estoy trabajando en this page. 
 - 🌱 Estoy aprendiendo Tecnologias Fullstack, PHP,LARAVEL,PYTHON FLASK   
