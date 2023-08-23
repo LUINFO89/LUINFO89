@@ -7,7 +7,7 @@ Me gusta ser competitivo , investigar y ponerme a prueba con nuevos retos.🔭
 Habilidades: PHP / LARAVEL/ JAVA / SPRINGBOOT 
 
 - 🔭 Estoy trabajando en this page. 
-- 🌱 Estoy aprendiendo Tecnologias Fullstack, PHP,LARAVEL,PYTHON FLASK   
+- 🌱 Estoy constantemente aprendiendo nuevas tecnologias 
 - 👯 Quiero colaborar con En desarrollo de software web Fullstack 
 - 📫 Cómo contactarme: https://www.linkedin.com/in/luis-hernando-soto-mesa/?originalSubdomain=co 
 - 😄 Pronombres: luiguie 
