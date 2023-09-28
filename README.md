@@ -11,7 +11,7 @@ Habilidades: PHP / LARAVEL/ JAVA / SPRINGBOOT
 - 👯 Quiero colaborar con En desarrollo de software web Fullstack 
 - 📫 Cómo contactarme: https://www.linkedin.com/in/luis-hernando-soto-mesa/?originalSubdomain=co 
 - 😄 Pronombres: luiguie 
-- ⚡ Dato curioso: Soy docente de tecnología  
+- ⚡ Dato curioso: Tengo mas de 7 anios Trabajando como Docente .
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/LUINFO89)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/luis-hernando-soto-mesa//)  
