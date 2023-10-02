@@ -59,4 +59,5 @@
 
 
 [![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luinfo89)](https://github.com/anuraghazra/github-readme-stats)
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUINFO89)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LUINFO89&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
