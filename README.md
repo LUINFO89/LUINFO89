@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Backend development**
 
-- 🌱 I’m currently learning **Java and aws**
+- 🌱 I’m currently learning **Java,Python and aws**
 
 - 👨‍💻 All of my projects are available at
 
